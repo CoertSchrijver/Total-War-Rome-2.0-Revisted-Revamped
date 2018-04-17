@@ -8,7 +8,7 @@ public class BalanceController : MonoBehaviour {
     // Use this for initialization
     public Text balanceText;
     public static int balance;
-    private int x = 5;
+    private int y = 5;
     public static test;
     public int unit1; 
     GameObject[] allTowns;
