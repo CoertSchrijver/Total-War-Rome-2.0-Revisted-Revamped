@@ -10,6 +10,7 @@ public class BalanceController : MonoBehaviour {
     public static int balance;
     private int x = 5;
     public static test;
+    public int unit1; 
     GameObject[] allTowns;
 
     // Use this for initialization
