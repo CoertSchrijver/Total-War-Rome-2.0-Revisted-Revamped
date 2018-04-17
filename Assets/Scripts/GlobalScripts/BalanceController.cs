@@ -9,6 +9,7 @@ public class BalanceController : MonoBehaviour {
     public Text balanceText;
     public static int balance;
     private int x = 5;
+    public static test;
     GameObject[] allTowns;
 
     // Use this for initialization
